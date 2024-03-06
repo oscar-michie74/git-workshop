@@ -36,7 +36,7 @@
 
 6. Make some other **change on github.com**
 
-* You can edit a file by clicking the `edit` button (pencil); commit directly to main - CHANGE
+* You can edit a file by clicking the `edit` button (pencil); commit directly to main - CHANGE - CHANGE ON newBranch
 
 7. **Check for those changes on your pc**
 
