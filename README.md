@@ -201,3 +201,5 @@ For example:
 
 * This tells git to ignore everything, except all files in all sub-directories that match the specific patterns.
 * Requires at least version 1.8.2 of git (many years old at this stage, shouldn't be a problem)
+
+* Extra line!
